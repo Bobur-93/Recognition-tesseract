@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Бобур Ибрагимов\source\repos\recognition\main.cpp(6,11): warning C4101: outText: неиспользованная локальная переменная
+  Создание кода
+  1 of 167 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  recognition.vcxproj -> C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\recognition.exe

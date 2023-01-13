@@ -1,0 +1,12 @@
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\recognition.exe
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\recognition.vcxproj.CopyComplete
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\leptonica-1.80.0.dll
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\gif.dll
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\jpeg62.dll
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\libpng16.dll
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\zlib1.dll
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\tiff.dll
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\lzma.dll
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\libwebpmux.dll
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\webp.dll
+C:\Users\Бобур Ибрагимов\source\repos\recognition\x64\Release\tesseract41.dll
